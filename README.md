@@ -1,4 +1,4 @@
-👋 Hi, I’m [@zehraimam02](https://github.com/zehraimam02)
+### 👋 Hi, I’m [@zehraimam02](https://github.com/zehraimam02)
 
 ### 🌟 About Me
 I'm a passionate learner currently diving into web development. With a keen eye for design and detail, I aim to create intuitive and engaging user experiences.  
