@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 I'm a passionate learner currently diving into web development. With a keen eye for design and detail, I aim to create intuitive and engaging user experiences.  
-Areas of interest: UI/UX design, web design, and frontend development.
+Areas of interest: UI/UX design, web design and development.
 
 ### 👀 Interests
 - Coding and software development
