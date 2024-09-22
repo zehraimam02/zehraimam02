@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m [@zehraimam02](https://github.com/zehraimam02)
 
 ### 🌟 About Me
-I'm a passionate learner currently diving into web development. With a keen eye for design and detail, I aim to create intuitive and engaging user experiences.  
-Areas of interest: UI/UX design, web design and development.
+I'm a passionate learner currently diving into web development. With a keen eye for design and detail, I aim to create intuitive and engaging user experiences. My areas of interest include UI/UX design and web development.
 
 ### 👀 Interests
 - Coding and software development
@@ -17,6 +16,7 @@ I'm eager to collaborate on webdev projects and connect with like-minded individ
 
 ### 📫 Contact
 Feel free to reach out to me at [izehra70@gmail.com](mailto:izehra70@gmail.com) for collaboration opportunities or just to connect!
+
 
 
 
